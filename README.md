@@ -1,12 +1,13 @@
 #Screenshots
+HomePage
 ![image](https://github.com/Jiya2003/eatNrepeat/assets/72983020/5f5658dd-776b-48a0-8633-8418f268f2ee)
-
+After Login
 ![image](https://github.com/Jiya2003/eatNrepeat/assets/72983020/0bdcd706-2427-4e69-b2ff-858bc4836c2d)
-
+HomePage view
 ![image](https://github.com/Jiya2003/eatNrepeat/assets/72983020/546fbb7c-5d0a-4141-86c2-1667a49a99ff)
-
+Cart Page
 ![image](https://github.com/Jiya2003/eatNrepeat/assets/72983020/1bb04e43-4557-40a6-a376-ef40f8087785)
-
+Orders page
 ![image](https://github.com/Jiya2003/eatNrepeat/assets/72983020/a5ae2929-b45f-4fe9-b6b0-a2e327ca9be8)
 
 #Live Link
